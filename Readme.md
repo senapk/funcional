@@ -41,14 +41,14 @@
 - [Git book](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico)
 
 ## S01 - Setup
-- [ ] Instale o git
-- [ ] Crie seu repositório da disciplina no github
-- [ ] Insira seu email gmail e seu repositório do github na planilha de notas
-- [ ] Coloque/Atualize sua foto no Si3
+- [ ] Instale o git.
+- [ ] Crie seu repositório da disciplina no github.
+- [ ] Insira seu email gmail e seu repositório do github na planilha de notas.
+- [ ] Coloque/Atualize sua foto no Si3.
 
-- [ ] Configure o ambiente do haskell
+- [ ] Configure o ambiente do haskell.
 - [ ] Assistir o vídeo de Introdução [Vídeo](https://www.youtube.com/watch?v=HTYsItc6a_Y)
-- [ ] Leia o curso em portugues até o final do capítulo 2 e fazer os exercícios propostos durante as leituras
+- [ ] Leia o curso em portugues até o final do capítulo 2 e fazer os exercícios propostos durante as leituras.
 - [ ] Faça seu cadastro no https://exercism.org/, se cadastre na trilha do haskell e tente fazer os primeiros exercícios.
 
 ## S02 - Introdução
