@@ -60,7 +60,7 @@
     - Pesquise e responda de forma não trivial e com exemplos práticos e reais: onde utilizar cada paradigma?
 
 ## S03
-- [ ] Perfil: Me manda uma mensagem pelo Instagram no privado @senapk informando.
+- [ ] Perfil: Me manda uma mensagem pelo Telegram no privado @senapk informando.
     - A disciplina que está cursando.
     - Nome completo.
     - Se é a primeira vez na disciplina ou se não, porque reprovou das outras vezes.
