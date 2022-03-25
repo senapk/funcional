@@ -41,23 +41,32 @@
 - [Git book](https://pt.wikiversity.org/wiki/Git_B%C3%A1sico)
 
 ## S01 - Setup
-- [ ] Instale o git.
-- [ ] Crie seu repositório da disciplina no github.
-- [ ] Insira seu email gmail e seu repositório do github na planilha de notas.
-- [ ] Coloque/Atualize sua foto no Si3.
-
-- [ ] Configure o ambiente do haskell.
-- [ ] Assistir o vídeo de Introdução [Vídeo](https://www.youtube.com/watch?v=HTYsItc6a_Y)
-- [ ] Leia o curso em portugues até o final do capítulo 2 e fazer os exercícios propostos durante as leituras.
-- [ ] Faça seu cadastro no https://exercism.org/, se cadastre na trilha do haskell e tente fazer os primeiros exercícios.
+- [ ] Intro
+    - Configure o ambiente do haskell.
+    - Assistir o vídeo de Introdução [Vídeo](https://www.youtube.com/watch?v=HTYsItc6a_Y)
+- [ ] Github
+    - Instale o git.
+    - Crie seu repositório da disciplina no github.
+    - Insira seu email gmail e seu repositório do github na planilha de notas.
+- [ ] Leitura cap 1 e 2
+    - Leia o curso em portugues até o final do capítulo 2 e fazer os exercícios propostos durante as leituras.
+- [ ] Exercism
+    - Faça seu cadastro no https://exercism.org/, se cadastre na trilha do haskell e tente fazer os primeiros 3 exercícios.
 
 ## S02 - Introdução
-- Assistir os dois vídeos de introdução da UFABC
+ - [ ] Base Teórica
     - 1.1 - Programação Funcional em Haskell: Paradigmas de Programação
     - 1.2 - Programação Funcional em Haskell: Paradigma de Programação Funcional
-- Pesquise e responda de forma não trivial e com exemplos práticos e reais: onde utilizar cada paradigma?
+    - Pesquise e responda de forma não trivial e com exemplos práticos e reais: onde utilizar cada paradigma?
 
 ## S03
+- [ ] Perfil: Me manda uma mensagem pelo Instagram no privado @senapk informando.
+    - A disciplina que está cursando.
+    - Nome completo.
+    - Se é a primeira vez na disciplina ou se não, porque reprovou das outras vezes.
+    - Se seu perfil não tiver sua foto, me manda uma foto decente.
+    - Seu experiência, afinidade ou dificuldade com programação.
+    - Possíveis dificuldades/desafios extras que você tenha: não tem notebook, internet, ritalina, diazepan, etc.
 ## S04
 ## S05
 ## S06
