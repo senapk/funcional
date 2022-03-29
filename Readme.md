@@ -60,13 +60,22 @@
     - Pesquise e responda de forma não trivial e com exemplos práticos e reais: onde utilizar cada paradigma?
 
 ## S03
-- [ ] Perfil: Me manda uma mensagem pelo Telegram no privado @senapk informando.
+- [ ] Perfil: Me manda uma mensagem pelo Telegramto no privado @senapk informando.
     - A disciplina que está cursando.
     - Nome completo.
     - Se é a primeira vez na disciplina ou se não, porque reprovou das outras vezes.
     - Se seu perfil não tiver sua foto, me manda uma foto decente.
     - Seu experiência, afinidade ou dificuldade com programação.
     - Possíveis dificuldades/desafios extras que você tenha: não tem notebook, internet, ritalina, diazepan, etc.
+- [ ] Conteúdo:
+    - Meu vídeo: let, where, if, else, guard, recursão e fold.
+        - [Vídeo David](https://youtu.be/4qTUuZoG5bE)
+    - Vídeos passo a passo 
+        - [3.1 UFABC - Funções, Comentários ](https://youtu.be/rrBMYho3frs)
+        - [3.2 UFABC - Tipos e classes padrões](https://youtu.be/WUGlBL9Fagw)
+        - [4.1 UFABC - GHCI, assinaturas de funções, Where ](https://youtu.be/dS5qmvxI7Us)
+        - [4.2 UFABC - Condicionais, Guards e Pattern Matching ](https://youtu.be/u5b75ENDpdY)
+
 ## S04
 ## S05
 ## S06
