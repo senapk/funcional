@@ -76,7 +76,13 @@
         - [4.1 UFABC - GHCI, assinaturas de funções, Where ](https://youtu.be/dS5qmvxI7Us)
         - [4.2 UFABC - Condicionais, Guards e Pattern Matching ](https://youtu.be/u5b75ENDpdY)
 
+
 ## S04
+- Relatório: me envia numa mensagem só (NÃO PODE SER AUDIO).
+    - O que você fez?
+    - Como quem você fez?
+    - O que aprendeu e tem dificuldade?
+    - Quanto tempo levou? (video aula + leitura + códigos)
 ## S05
 ## S06
 ## S07
